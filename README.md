@@ -81,4 +81,4 @@ Selon le type de déchet détecté, une LED spécifique s'allume pour simuler le
 ## 👥 Auteurs
 Oumniya Moutaouakil
 
-Encadré par : Pr. ANAS BOUAYAD
+
