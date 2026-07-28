@@ -70,7 +70,10 @@ Selon le type de déchet détecté, une LED spécifique s'allume pour simuler le
 6. Branchez l'ESP32-CAM via le module FTDI, compilez et téléversez le code.
 7. Ouvrez le moniteur série (baud rate : 115200) pour voir les prédictions en temps réel.
 
-
+## 🔮 Perspectives d'évolution
+1. Amélioration du Dataset : Ajouter de nouvelles classes (Plastique, Métal, Déchets organiques).
+2. Actionneurs physiques : Remplacer les LEDs par des servomoteurs ou un bras robotique pour trier réellement les déchets.
+3. Connectivité Cloud : Remonter les statistiques de tri vers un Dashboard (via MQTT ou HTTP).
 
 
 ## 👥 Auteurs
@@ -79,7 +82,4 @@ Selon le type de déchet détecté, une LED spécifique s'allume pour simuler le
 - GitHub: [@oumniya03](https://github.com/oumniya03)
 - Project: [Waste_classification](https://github.com/oumniya03/Waste_Classification.git)
 
-##🔮 Perspectives d'évolution
-1. Amélioration du Dataset : Ajouter de nouvelles classes (Plastique, Métal, Déchets organiques).
-2. Actionneurs physiques : Remplacer les LEDs par des servomoteurs ou un bras robotique pour trier réellement les déchets.
-3. Connectivité Cloud : Remonter les statistiques de tri vers un Dashboard (via MQTT ou HTTP).
+
