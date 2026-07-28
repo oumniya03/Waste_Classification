@@ -44,12 +44,18 @@ Selon le type de déchet détecté, une LED spécifique s'allume pour simuler le
    - 🟡 **LED Jaune :** Carton
    - 🟢 **LED Verte :** Verre
      
-<img width="300" height="300" alt="Image7" src="https://github.com/user-attachments/assets/584f90b6-6ad5-427a-8c8e-9c362739a1cd" />
+<p align="center">
+  <img width="300" height="300" alt="Image7" src="https://github.com/user-attachments/assets/584f90b6-6ad5-427a-8c8e-9c362739a1cd" />
+</p>
 
 ## 📸 Démonstration
-*(Ajoute ici une image de ton câblage et un lien vers la vidéo de démo)*
+<p align="center">
+  <img width="300" height="300" alt="Image8" src="https://github.com/user-attachments/assets/e3e4229e-1a0c-4761-92b6-becf9227bc04" />
+
+</p>
 
 > **[Lien vers la vidéo de démonstration du tri automatique]** (Remplacer par le lien YouTube de ta vidéo)
+
 
 ## 🚀 Installation & Utilisation
 
