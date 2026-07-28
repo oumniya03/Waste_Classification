@@ -21,7 +21,7 @@ Selon le type de déchet détecté, une LED spécifique s'allume pour simuler le
 - Breadboard et câbles de connexion (Jumpers)
 - 3 LEDs (Rouge, Jaune, Verte)
 - Résistances de protection
-<img width="10" height="10" alt="Image4" src="https://github.com/user-attachments/assets/3d694099-3c6d-42ec-8db3-30871d28036a" />
+<img width="100" height="100" alt="Image4" src="https://github.com/user-attachments/assets/3d694099-3c6d-42ec-8db3-30871d28036a" />
 <img width="10" height="10" alt="Image3" src="https://github.com/user-attachments/assets/0bb5718f-603e-48a9-aeb4-458d516592ff" />
 <img width="10" height="10" alt="Image2" src="https://github.com/user-attachments/assets/56431547-ecb8-4fd9-8eed-e42e42bef024" />
 <img width="10" height="10" alt="Image1" src="https://github.com/user-attachments/assets/306d2627-f560-44d3-923c-34fc4169a4dd" />
