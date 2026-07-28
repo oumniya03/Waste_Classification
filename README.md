@@ -43,6 +43,8 @@ Selon le type de déchet détecté, une LED spécifique s'allume pour simuler le
    - 🔴 **LED Rouge :** Papier
    - 🟡 **LED Jaune :** Carton
    - 🟢 **LED Verte :** Verre
+     
+<img width="300" height="300" alt="Image7" src="https://github.com/user-attachments/assets/584f90b6-6ad5-427a-8c8e-9c362739a1cd" />
 
 ## 📸 Démonstration
 *(Ajoute ici une image de ton câblage et un lien vers la vidéo de démo)*
