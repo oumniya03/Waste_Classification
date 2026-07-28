@@ -22,11 +22,11 @@ Selon le type de déchet détecté, une LED spécifique s'allume pour simuler le
 - 3 LEDs (Rouge, Jaune, Verte)
 - Résistances de protection
 <img width="100" height="100" alt="Image4" src="https://github.com/user-attachments/assets/3d694099-3c6d-42ec-8db3-30871d28036a" />
-<img width="10" height="10" alt="Image3" src="https://github.com/user-attachments/assets/0bb5718f-603e-48a9-aeb4-458d516592ff" />
-<img width="10" height="10" alt="Image2" src="https://github.com/user-attachments/assets/56431547-ecb8-4fd9-8eed-e42e42bef024" />
-<img width="10" height="10" alt="Image1" src="https://github.com/user-attachments/assets/306d2627-f560-44d3-923c-34fc4169a4dd" />
-<img width="10" height="10" alt="Image6" src="https://github.com/user-attachments/assets/50f59034-4db3-4e5f-b100-2c0640d34417" />
-<img width="10" height="10" alt="Image5" src="https://github.com/user-attachments/assets/1b3aeec0-c186-4c35-ae84-32e38ad2e658" />
+<img width="100" height="100" alt="Image3" src="https://github.com/user-attachments/assets/0bb5718f-603e-48a9-aeb4-458d516592ff" />
+<img width="100" height="100" alt="Image2" src="https://github.com/user-attachments/assets/56431547-ecb8-4fd9-8eed-e42e42bef024" />
+<img width="100" height="100" alt="Image1" src="https://github.com/user-attachments/assets/306d2627-f560-44d3-923c-34fc4169a4dd" />
+<img width="100" height="100" alt="Image6" src="https://github.com/user-attachments/assets/50f59034-4db3-4e5f-b100-2c0640d34417" />
+<img width="100" height="100" alt="Image5" src="https://github.com/user-attachments/assets/1b3aeec0-c186-4c35-ae84-32e38ad2e658" />
 
 ## 💻 Logiciels & Technologies (Software)
 - **Edge Impulse** (Pour l'acquisition des données, l'entraînement et le déploiement du modèle d'apprentissage par transfert)
